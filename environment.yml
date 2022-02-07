@@ -1,0 +1,8 @@
+name: dltubingen
+channels: 
+ - conda-forge
+ - defaults 
+dependencies: 
+ - numpy 
+ - jupyterlab 
+ - scikit-image
